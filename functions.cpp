@@ -1,0 +1,7 @@
+#include "AccessCard.h"
+#include "Department.h"
+#include "Staff.h"
+#include "Student.h"
+#include "TeachingAssistant.h"
+#include "TutoringSession.h"
+#include "UniversityMember.h"
